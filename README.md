@@ -8,7 +8,7 @@ Con este plan, después de unas 10 lecciones, el niño ya podría hacer programa
 
 1. Introducción a Python → print() y operaciones matemáticas.
 2. Variables y Tipos de Datos → Números y texto (int, str).
-3. Más sobre Strings → Concatenación y caracteres especiales.
+3. Más sobre Tipos de datos → Strings, Numbers y Booleans
 4. Input del Usuario → input() para hacer preguntas y responder.
 5. Condiciones (if/else) → Tomando decisiones simples.
 6. Más sobre Condiciones → Comparaciones (>, <, ==).
